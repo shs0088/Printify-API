@@ -1,0 +1,9 @@
+{
+  "name": "dtf-studio-printify-api",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Server-side Printify API bridge for DTF Studio",
+  "engines": {
+    "node": ">=18"
+  }
+}
